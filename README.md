@@ -1,13 +1,17 @@
 # Department PDF Resource Hub
 
-## Description
-This is a local web-based project built to serve as a centralized resource hub for academic PDFs such as study materials
+# 🎓 Student Resource Hub
 
-## Features
-- Dynamic search by subject name  
-- Filter PDFs based on year and regulation  
-- Admin-only access for uploading PDF files  
-- Clean and simple user interface
+A web-based platform for students to access study materials, past projects, and research papers.  
+Built with **PHP + MySQL** and designed for easy access and management.
+
+---
+
+## 🚀 Features
+✅ Admin can upload PDFs (with year, regulation, and subject metadata)  
+✅ Students can search and download PDFs easily  
+✅ Includes login system for admin uploads  
+✅ Simple UI with filters and search functionality
 
 ## Technologies Used
 - PHP  
@@ -16,5 +20,3 @@ This is a local web-based project built to serve as a centralized resource hub f
 - JavaScript  
 - MySQL
 
-## Note
-This project runs on localhost. All source code and related files are included in this ZIP file for review purposes.
